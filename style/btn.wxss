@@ -1,0 +1,4 @@
+/*所有btn的背景颜色*/
+button[type="warn"], button[type="primary"], .btn_ok, .reset, .confirm  {
+  background-color: #008842;
+}
